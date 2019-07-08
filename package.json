@@ -1,0 +1,19 @@
+{
+  "name": "vue_nuxt_test01",
+  "version": "1.0.0",
+  "description": "Vue.js Nuxt.js test01",
+  "author": "tominaga",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
